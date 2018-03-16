@@ -1,33 +1,33 @@
 # How to use Nano Series Duplex hotSPOT?  
-For Nano Serial Duplex hotSPOT UserGuide  
+Nano Serial Duplex hotSPOT UserGuide  
  
-> summary： Guidance for Nano Series Duplex hotSPOT  
+> Summary： Guide for Nano Series Duplex hotSPOT  
  
-> Collate： bi7jta@gmail.com   
+> Contact： bi7jta@gmail.com   
  
-### How to use Nano Series Duplex hotSPOT?  
+### How to use the Nano Series Duplex hotSPOT?  
 #### 1st  Get ready for pi-star OS,Connect SMA ANT,Connect RPi to hotSPOT use GPIO.   
-#### 2nd  Controller Mode:Duplex Repeater (also make sure expert Duplex flag 1 not 0)  
+#### 2nd  Controller Mode:Duplex Repeater (also make sure to set duplex flag 1, not 0)  
 http://pi-star/admin/configure.php  
 http://pi-star/admin/expert/edit_mmdvmhost.php   
 
-#### 3rd  set RX/TX Frequency ,support UHF and VHF,like  
+#### 3rd  set RX/TX Frequency, UHF and VHF is possible 
 RXFrequency  434755000  
 TXFrequency  439755000   
-NOTE: set UHF TX - RX > 5MHZ to Get better performance 
-Just work at amateur frequencies, and different countries have different amateur frequencies.    
+NOTE: set UHF TX - RX > 5MHZ to get better performance 
+Only use amateur frequencies. Check your countries regulations to use the correct amateur radio frequencies!    
 
-#### 4th set Offset in section   
+#### 4th set offset in section   
 RXOffset=-300    
 TXOffset=-300   
-NOTE：If not set,Error Rate % will hight, -300 is the offset of this bath 14.7456MHz TCXO offset.  
-You can also abjust the parameters that make the Error Rate % to the lowest.  
+NOTE：If not set, BER may be quite high. -300 is the estimated offset for this batch of 14.7456MHz TCXOs.  
+You can also adjust the value for smallest BER.  
 
-#### 5th DMR, Set Static Talkgroups for Timeslot 1 and Timeslot 2  (Fist Login)   
+#### 5th DMR, set static talkgroups for Timeslot 1 and Timeslot 2  (Fist Login)   
 eg. https://brandmeister.network/?page=hotspot-edit&id=4600060     
-NOTE:Can use 4600060XX XX is 01~99 ,for different hotSPOT    
+NOTE: You can use your personal DMR-ID with appended SSID XX, like 4600060XX. XX from 01 to 99, for different hotSPOTs    
 
-### All update status will publish to email group    
+### All update status will be published    
 https://groups.io/g/nano-mmdvm or join facebook userGroup     
 https://www.facebook.com/groups/nano.mmdvm/    
 
