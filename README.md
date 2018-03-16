@@ -37,8 +37,8 @@ https://www.facebook.com/groups/nano.mmdvm/
 ![Image loading...](/images/user_guide_where_tx.png)     
 [View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)  
 
-![Image loading...](/images/user_guide_config.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config.png)   
+![Image loading...](/images/user_guide_config2.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config2.png)   
 
 ![Image loading...](/images/user_guide_expert_config.png)     
 [View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)   
