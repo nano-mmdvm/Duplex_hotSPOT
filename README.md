@@ -50,6 +50,9 @@ https://www.facebook.com/groups/nano.mmdvm/
 
 http://bi7jta.myq-see.com:8088/  
 
+### How to upgrade firmware?  
+see also https://github.com/nano-mmdvm/MMDVM_HS_firmware  
+
 Continue update ...     
 
 Contract me: bi7jta@gmail.com    
