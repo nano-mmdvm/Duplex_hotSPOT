@@ -7,9 +7,12 @@ For Nano Serial Duplex hotSPOT UserGuide
  
 ### How to use Nano Series Duplex hotSPOT?  
 #### 1st  Get ready for pi-star OS,Connect SMA ANT,Connect RPi to hotSPOT use GPIO.   
-#### 2nd  Controller Mode:Duplex Repeater (also make sure expert Duplex flag 1 not 0)  
+
+
+#### 2nd  Controller Mode:Duplex Repeater (also make sure expert mode Duplex flag 1 not 0)  
 http://pi-star/admin/configure.php  
-http://pi-star/admin/expert/edit_mmdvmhost.php   
+http://pi-star/admin/expert/edit_mmdvmhost.php  
+   
 
 #### 3rd  set RX/TX Frequency ,support UHF and VHF,like  
 RXFrequency  434755000  
@@ -29,11 +32,22 @@ NOTE:Can use 4600060XX XX is 01~99 ,for different hotSPOT
 
 ### All update status will publish to email group    
 https://groups.io/g/nano-mmdvm or join facebook userGroup     
-https://www.facebook.com/groups/nano.mmdvm/    
+https://www.facebook.com/groups/nano.mmdvm/      
 
-![图片装载中](/images/user_guide_where_tx.png)     
-[点击查看大图](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)    
+![Image loading...](/images/user_guide_where_tx.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)  
+
+![Image loading...](/images/user_guide_config.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config.png)   
+
+![Image loading...](/images/user_guide_expert_config.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)   
  
+![Image loading...](/images/user_guide_ui.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_ui.png)   
+ 
+### Demo live Duplex hotSPOT (Please do not modify anything,TKS!)  
+http://bi7jta.myq-see.com:8088/  
 
 Continue update ...     
 
