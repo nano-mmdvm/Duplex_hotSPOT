@@ -13,10 +13,10 @@ http://pi-star/admin/configure.php
 http://pi-star/admin/expert/edit_mmdvmhost.php  
    
 
-## 3rd  set RX/TX Frequency ,support UHF and VHF,like  
+## 3rd  set RX/TX Frequency ,support UHF ,like 
 RXFrequency  434755000  
 TXFrequency  439755000   
-NOTE: set UHF TX - RX > 5MHZ to Get better performance 
+NOTE: set UHF TX - RX > 5MHZ to Get better performance     
 Just work at amateur frequencies, and different countries have different amateur frequencies.    
 
 ## 4th set Offset in section   
@@ -52,6 +52,7 @@ http://bi7jta.myq-see.com:8088/
 ## How to upgrade firmware?  
 See https://github.com/nano-mmdvm/MMDVM_HS_firmware/blob/master/how-to-upgrade-nano-duplex-fw.md 
 
-Continue update ...     
+Continue update ...   
+
 
 
