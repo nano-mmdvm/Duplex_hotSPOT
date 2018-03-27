@@ -49,6 +49,14 @@ https://www.facebook.com/groups/nano.mmdvm/
 
 http://bi7jta.myq-see.com:8088/  
 
+## Config template for TYT-MD380 and Pi-Star_ver0327  
+https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/Duplex_Template_Config_27-Mar-2018.zip  
+https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/TYT_MD380_BI7JTA_v0328_EN_TEMPLATE.rdt  
+
+## Discuss and share
+Youtube video https://goo.gl/xdH9vC   
+Facebook Group https://goo.gl/Zz1mp5 
+
 ## How to upgrade firmware?  
 See https://github.com/nano-mmdvm/MMDVM_HS_firmware/blob/master/how-to-upgrade-nano-duplex-fw.md 
 
