@@ -6,7 +6,8 @@ For Nano Serial Duplex hotSPOT UserGuide
 > Collate： bi7jta@gmail.com   
  
 ## 1st  Get ready for pi-star OS,Connect SMA ANT,Connect RPi to hotSPOT use GPIO.   
-
+![Image loading...](/images/Duplex.jpg)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Duplex.jpg) 
 
 ## 2nd  Controller Mode:Duplex Repeater (also make sure expert mode Duplex flag 1 not 0)  
 http://pi-star/admin/configure.php  
@@ -19,6 +20,10 @@ TXFrequency  439755000
 NOTE: set UHF TX - RX > 5MHZ to Get better performance     
 Just work at amateur frequencies, and different countries have different amateur frequencies.    
 
+![Image loading...](/images/user_guide_config2.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config2.png)   
+
+
 Program your DMR Radio Channel
 ![Image loading...](/images/Radio_Config_for_duplex.png)      
 [View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Radio_Config_for_duplex.png)   
@@ -27,7 +32,10 @@ Program your DMR Radio Channel
 RXOffset=-300    
 TXOffset=-300   
 NOTE：If not set,Error Rate % will hight, -300 is the offset of this bath 14.7456MHz TCXO offset.  
-You can also abjust the parameters that make the Error Rate % to the lowest.  
+You can also abjust the parameters that make the Error Rate % to the lowest. 
+ 
+![Image loading...](/images/user_guide_expert_config.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)  
 
 ## 5th DMR, Set Static Talkgroups for Timeslot 1 and Timeslot 2  (Fist Login)   
 eg. https://brandmeister.network/?page=hotspot-edit&id=4600060     
@@ -38,13 +46,7 @@ https://groups.io/g/nano-mmdvm or join facebook userGroup
 https://www.facebook.com/groups/nano.mmdvm/      
 
 ![Image loading...](/images/user_guide_where_tx.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)  
-
-![Image loading...](/images/user_guide_config2.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config2.png)   
-
-![Image loading...](/images/user_guide_expert_config.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)   
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)     
  
 ![Image loading...](/images/user_guide_ui.png)     
 [View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_ui.png)   
@@ -55,7 +57,9 @@ http://bi7jta.myq-see.com:8088/
 
 ## Config template for TYT-MD380 and Pi-Star_ver0327  
 https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/Duplex_Template_Config_27-Mar-2018.zip  
-https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/TYT_MD380_BI7JTA_v0328_EN_TEMPLATE.rdt  
+https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/Config_TMP_Duplex_hotSPOT_TYT_MD380G_.rdt    
+The program tools also in this page,with MD-2017,you can find it      
+https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/MD-380G.exe 
 
 ## Discuss and share
 Youtube video https://goo.gl/xdH9vC   
