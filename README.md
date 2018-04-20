@@ -37,9 +37,11 @@ You can also abjust the parameters that make the Error Rate % to the lowest.
 ![Image loading...](/images/user_guide_expert_config.png)     
 [View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)  
 
-## 5th DMR, Set Static Talkgroups for Timeslot 1 and Timeslot 2  (Fist Login)   
+## 5th DMR, Set Static Talkgroups for Timeslot 1 and Timeslot 2  
 eg. https://brandmeister.network/?page=hotspot-edit&id=4600060     
 NOTE:Can use 4600060XX XX is 01~99 ,for different hotSPOT    
+![Image loading...](/images/Config_BM_Static_Group.png)     
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Config_BM_Static_Group.png)   
 
 ## All update status will publish to email group    
 https://groups.io/g/nano-mmdvm or join facebook userGroup     
@@ -68,7 +70,12 @@ Facebook Group https://goo.gl/Zz1mp5
 ## How to upgrade firmware?  
 See https://github.com/nano-mmdvm/MMDVM_HS_firmware/blob/master/how-to-upgrade-nano-duplex-fw.md 
 
+## Need help
+Join facebook group,view the status and publish your issue (I like this way,not all issue I can solve ).   
+https://www.facebook.com/groups/nano.mmdvm/  
+
 Continue update ...   
+All the guide will move to my Google blog soon http://bi7jta.blogspot.hk/  
 
 
 
