@@ -60,8 +60,8 @@ http://bi7jta.myq-see.com:8088/
 ## Config template for TYT-MD380 and Pi-Star_ver0327  
 https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/Duplex_Template_Config_27-Mar-2018.zip  
 https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/Config_TMP_Duplex_hotSPOT_TYT_MD380G.rdt    
-The program tools also in this page,with MD-2017,you can find it      
-https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/MD-380G.exe
+The program tools also in this page,with MD-2017,you can find it       
+https://raw.githubusercontent.com/nano-mmdvm/Duplex_hotSPOT/master/MD-380G.exe  
 
 ## Discuss and share
 Youtube video https://goo.gl/xdH9vC   
