@@ -19,6 +19,10 @@ TXFrequency  439755000
 NOTE: set UHF TX - RX > 5MHZ to Get better performance     
 Just work at amateur frequencies, and different countries have different amateur frequencies.    
 
+Program your DMR Radio Channel
+![Image loading...](/images/Radio_Config_for_duplex.png)      
+[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Radio_Config_for_duplex.png)   
+
 ## 4th set Offset in section   
 RXOffset=-300    
 TXOffset=-300   
