@@ -7,7 +7,7 @@ For Nano Serial Duplex hotSPOT UserGuide
  
 ## 1st  Get ready for pi-star OS,Connect SMA ANT,Connect RPi to hotSPOT use GPIO.   
 ![Image loading...](/images/Duplex.jpg)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Duplex.jpg) 
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Duplex.jpg) 
 
 ## 2nd  Controller Mode:Duplex Repeater (also make sure expert mode Duplex flag 1 not 0)  
 http://pi-star/admin/configure.php  
@@ -21,12 +21,12 @@ NOTE: set UHF TX - RX > 5MHZ to Get better performance
 Just work at amateur frequencies, and different countries have different amateur frequencies.    
 
 ![Image loading...](/images/user_guide_config2.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config2.png)   
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_config2.png)   
 
 
 Program your DMR Radio Channel
 ![Image loading...](/images/Radio_Config_for_duplex.png)      
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Radio_Config_for_duplex.png)   
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Radio_Config_for_duplex.png)   
 
 ## 4th set Offset in section   
 RXOffset=-300    
@@ -35,23 +35,23 @@ NOTE：If not set,Error Rate % will hight, -300 is the offset of this bath 14.74
 You can also abjust the parameters that make the Error Rate % to the lowest. 
  
 ![Image loading...](/images/user_guide_expert_config.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)  
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)  
 
 ## 5th DMR, Set Static Talkgroups for Timeslot 1 and Timeslot 2  
 eg. https://brandmeister.network/?page=hotspot-edit&id=4600060     
 NOTE:Can use 4600060XX XX is 01~99 ,for different hotSPOT    
 ![Image loading...](/images/Config_BM_Static_Group.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Config_BM_Static_Group.png)   
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Config_BM_Static_Group.png)   
 
 ## All update status will publish to email group    
 https://groups.io/g/nano-mmdvm or join facebook userGroup     
 https://www.facebook.com/groups/nano.mmdvm/      
 
 ![Image loading...](/images/user_guide_where_tx.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)     
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_where_tx.png)     
  
 ![Image loading...](/images/user_guide_ui.png)     
-[View lagrge Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_ui.png)   
+[View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_ui.png)   
  
 ### Demo live Duplex hotSPOT (Please do not modify anything,TKS!)  
 
