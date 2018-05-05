@@ -5,16 +5,16 @@ For Nano Serial Duplex hotSPOT UserGuide
  
 > Collate： bi7jta@gmail.com   
  
-## 1st  Get ready for pi-star OS,Connect SMA ANT,Connect RPi to hotSPOT use GPIO.   
+## 1  Get ready for pi-star OS,Connect SMA ANT,Connect RPi to hotSPOT use GPIO.   
 ![Image loading...](/images/Duplex.jpg)     
 [View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Duplex.jpg) 
 
-## 2nd  Controller Mode:Duplex Repeater (also make sure expert mode Duplex flag 1 not 0)  
+## 2  Controller Mode:Duplex Repeater (also make sure expert mode Duplex flag 1 not 0)  
 http://pi-star/admin/configure.php  
 http://pi-star/admin/expert/edit_mmdvmhost.php  
    
 
-## 3rd  set RX/TX Frequency ,support UHF ,like 
+## 3  set RX/TX Frequency ,support UHF ,like 
 RXFrequency  434755000  
 TXFrequency  439755000   
 NOTE: set UHF TX - RX > 5MHZ to Get better performance     
@@ -28,7 +28,7 @@ Program your DMR Radio Channel
 ![Image loading...](/images/Radio_Config_for_duplex.png)      
 [View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Radio_Config_for_duplex.png)   
 
-## 4th set Offset in section   
+## 4 set Offset in section   
 RXOffset=-300    
 TXOffset=-300   
 NOTE：If not set,Error Rate % will hight, -300 is the offset of this bath 14.7456MHz TCXO offset.  
@@ -37,11 +37,14 @@ You can also abjust the parameters that make the Error Rate % to the lowest.
 ![Image loading...](/images/user_guide_expert_config.png)     
 [View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/user_guide_expert_config.png)  
 
-## 5th DMR, Set Static Talkgroups for Timeslot 1 and Timeslot 2  
+## 5 DMR Mode, Set Static Talkgroups for Timeslot 1 and Timeslot 2  
 eg. https://brandmeister.network/?page=hotspot-edit&id=4600060     
 NOTE:Can use 4600060XX XX is 01~99 ,for different hotSPOT    
 ![Image loading...](/images/Config_BM_Static_Group.png)     
 [View large Image](https://github.com/nano-mmdvm/Duplex_hotSPOT/raw/master/images/Config_BM_Static_Group.png)   
+
+##  6 Install Nextion LCD for Duplex hotSPOT (Note:  Ver1.0.1 VCC,GND not same as Ver1.0))  
+http://mmdvm.bi7jta.org/2018/04/install-nextion-lcd-for-duplex-hotspot.html  
 
 ## All update status will publish to email group    
 https://groups.io/g/nano-mmdvm or join facebook userGroup     
