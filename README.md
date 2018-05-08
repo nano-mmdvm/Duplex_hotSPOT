@@ -1,5 +1,10 @@
 # How to use Nano Series Duplex hotSPOT?  
 For Nano Serial Duplex hotSPOT UserGuide  
+
+## NOTE 
+
+This page not maintain soon,all will move to BLOG, please visit my BLOG instead  
+http://mmdvm.bi7jta.org/2018/04/userguide-for-duplexhotspot-only-for.html 
  
 > summary： Guidance for Nano Series Duplex hotSPOT  
  
@@ -71,7 +76,7 @@ Youtube video https://goo.gl/xdH9vC
 Facebook Group https://goo.gl/Zz1mp5 
 
 ## How to upgrade firmware?  
-See https://github.com/nano-mmdvm/MMDVM_HS_firmware/blob/master/how-to-upgrade-nano-duplex-fw.md 
+http://mmdvm.bi7jta.org/2018/04/userguide-for-duplexhotspot-only-for.html   
 
 ## Need help
 Join facebook group,view the status and publish your issue (I like this way,not all issue I can solve ).   
